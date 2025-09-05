@@ -49,7 +49,7 @@ Aynı zamanda yedekleme, loglama ve kapsamlı moderasyon araçları sunar.
 1. Repoyu klonla:
 
    ```bash
-   git clone https://github.com/Zywexx/Discord-Sunucu-Koruma-ve-Moderasyon-Botu
+   git clone https://github.com/Zywexx/Discord-Sunucu-Koruma-ve-Moderasyon-Botu.git
    cd projeadi
    ```
 
